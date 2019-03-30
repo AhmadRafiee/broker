@@ -31,7 +31,7 @@
     "joi": "^14.3.1",
     "jsonwebtoken": "^8.4.0",
     "ponte": "0.0.16",
-    "parse": "2.2.1"
+    "parse": "2.3.1"
   },
   "devDependencies": {
     "chai": "4.2.0",
